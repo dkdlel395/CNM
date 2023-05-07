@@ -31,4 +31,4 @@
 
 ### 정보 처리 학회 제출 학술 포스터
 
-<img src='https://user-images.githubusercontent.com/74848389/236672136-2dd960a9-dfa7-4554-bef2-605eaedd841a.png'>
+<img src='https://user-images.githubusercontent.com/74848389/236674140-5e11d621-5706-415f-a1a3-525358a5e2cb.png'>
