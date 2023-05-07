@@ -5,6 +5,7 @@
 ## 사용 기술
 - 이미지 전처리 (openCV) : Morpholoy, Gaussian Blur, Binarization을 사용
 - 텍스트 변환 : pytesseract
+
 #구동 순서
 
 ## 1. imread() 이미지를 로드
@@ -12,6 +13,7 @@
 ## 3. Binarization(이진화 처리)
 ## 4. pytesseract를 사용한 텍스트 변환
 
+<img src='https://user-images.githubusercontent.com/74848389/236671828-6f3147a7-d27a-4ba5-b88b-6cb5aa33e486.png'>
 
 #개발 환경
 
